@@ -1,7 +1,8 @@
 # krutika73-Excel_Road_Accident_Dashboard
 Accident Analysis Dashboard: This project involves the meticulous cleaning and transformation of data using Excel, followed by the creation of insightful visualizations through the implementation of pivot tables. The result is a comprehensive dashboard designed to enhance accident analysis and provide valuable insights.
 
-![Accident Dashboard!](Accident Dashboard.png)
+![Accident Dashboard!](Accident_Dashboard.png)
+
 
 # Overview
 This project entails the development of a comprehensive Road Accident Analysis Dashboard for the years 2021 and 2022. The dataset comprises an extensive 3.07 million rows and 21 fields, including critical information such as accident index, date, accident severity, road surface type, light conditions, road type, and location.
